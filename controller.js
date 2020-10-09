@@ -21,8 +21,8 @@ app.controller("CalendarController", function($scope, $location, CalendarData, E
   // configure gapi-helper
   // (you'll have to change these values for your own app)
   gapi_helper.configure({
-    clientId: '721457523650-pjoaci65s9ob0241fbb151i3u7sjvv3r.apps.googleusercontent.com',
-    apiKey: 'AIzaSyDY4uF058d78YHd7SPaF8bH0aoJqPGKXFU',
+    clientId: '477355505177-ahq5j12j7hhgbbi5s6hiu9libt1438mq.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBtRfba6lbUJtdw2zZYNjOC_EuF4ME5CIE',
     scopes: 'https://www.googleapis.com/auth/calendar',
     services: {
       calendar: 'v3'
